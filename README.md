@@ -92,3 +92,7 @@ This Lambda function was created with runtime Node.js 4.3. It has been tested wi
 
 This Lambda function has the following limitation:
 * Multi-line log messages are not supported.
+
+## License
+
+This library is licensed under the MIT-0 License.
